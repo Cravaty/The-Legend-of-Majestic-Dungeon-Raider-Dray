@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Boss">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQhABAAAAAAAAEAAAAALFAAAAEYASABAQmAAAAAAkA=</HashCode>
+      <FileName>Assets\__Scripts\Boss.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CamFollowDray">
+    <Position X="4.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AARAAAAAAAAIAAAAAAAAAAAAAEAAAABBgAEAAAAAgEA=</HashCode>
+      <FileName>Assets\__Scripts\CamFollowDray.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DamageEffect">
+    <Position X="8" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAggAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\__Scripts\DamageEffect.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DontDestroy">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\__Scripts\DontDestroy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dray" BaseTypeListCollapsed="true">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="Dray.eMode" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\__Scripts\Dray.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAUhAFAoACuNgADAAAIYIBAAAAFEAyAIQSGAAAAAQEg=</HashCode>
+      <FileName>Assets\__Scripts\Dray.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Enemy">
+    <Position X="2.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAUAAAAoAAigAABgAAIYAAAAAABEgAAAQQAAAAAAAEg=</HashCode>
+      <FileName>Assets\__Scripts\Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GateKeeper">
+    <Position X="6.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAgAQAAAAIAAAKAAAAAAAAAAAAACACwAAAAAAAAFE=</HashCode>
+      <FileName>Assets\__Scripts\GateKeeper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Grapple">
+    <Position X="16.5" Y="5.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="Grapple.eMode" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\__Scripts\Grapple.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAQAABAACgAAAgSAQRgAAAAAAEBkAAAAwUCAAAAiAEQ=</HashCode>
+      <FileName>Assets\__Scripts\Grapple.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GridMove">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEg=</HashCode>
+      <FileName>Assets\__Scripts\GridMove.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GUIPanel">
+    <Position X="14.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQACAAIACAAAAAAAAgAAAABAQAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>Assets\__Scripts\GUIPanel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InfoController">
+    <Position X="4.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Assets\__Scripts\InfoController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InRoom">
+    <Position X="14.75" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAhAAAAACAAAAAAAAAAIAAABAAAACAAIACIAAIAAAA=</HashCode>
+      <FileName>Assets\__Scripts\InRoom.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PickUp">
+    <Position X="11" Y="2.25" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="PickUp.eType" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\__Scripts\PickUp.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAACAAAIAEA=</HashCode>
+      <FileName>Assets\__Scripts\PickUp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SceneChanger">
+    <Position X="11" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAoAAAAAAAAAA=</HashCode>
+      <FileName>Assets\__Scripts\SceneChanger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SettingScript">
+    <Position X="16.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>Assets\__Scripts\SettingScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Skeletos">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQhABAAAAAAAAAAAAAACAAAAAEIASAAAQmAAAAAAEA=</HashCode>
+      <FileName>Assets\__Scripts\Skeletos.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Spiker">
+    <Position X="4.5" Y="0.75" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="Spiker.eMode" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\__Scripts\Spiker.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAQCAAIACiAAAACAABgAAIAAAEAAAAAAgAEAAIAAAAA=</HashCode>
+      <FileName>Assets\__Scripts\Spiker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SwordController">
+    <Position X="2.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAgEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\__Scripts\SwordController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tile">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAEAAAAAAAAAAAAAAAgAAAAAAAAgAABgAAAAAEA=</HashCode>
+      <FileName>Assets\__Scripts\Tile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TileSwap">
+    <Position X="2.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAAAAABAAAAAAgAAgAAAAAAAA=</HashCode>
+      <FileName>Assets\__Scripts\TileCamera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TileCamera">
+    <Position X="9.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAARBKAEAEAAQAAQAgEAAEEIgAAAAIAAIAAAEEIAEg=</HashCode>
+      <FileName>Assets\__Scripts\TileCamera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Utils">
+    <Position X="14.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAMAAAAgAAgAQAAAgIkAAQAAAAgAKAAAAAAAA=</HashCode>
+      <FileName>Assets\__Scripts\Utils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EasingCachedCurve">
+    <Position X="2.25" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\__Scripts\Utils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Easing">
+    <Position X="16.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QCAAAAAgAAAAAAAAAAIEAEAEkAAAAAAAAAAAAgAAACA=</HashCode>
+      <FileName>Assets\__Scripts\Utils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Volume">
+    <Position X="0.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAIAAAAAIAAADIAAAEAAACAEA=</HashCode>
+      <FileName>Assets\__Scripts\Volume.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="IFacingMover">
+    <Position X="4.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAhAAAAAAAAAAAAAAAAAAAAAAEAACAAAACAAAAAAAA=</HashCode>
+      <FileName>Assets\__Scripts\IFacingMover.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IKeyMaster">
+    <Position X="8" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Assets\__Scripts\IkeyMaster.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="BoundsTest">
+    <Position X="6.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAIA=</HashCode>
+      <FileName>Assets\__Scripts\Utils.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
